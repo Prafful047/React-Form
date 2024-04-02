@@ -56,7 +56,7 @@ const PointMouseLogger = () => {
 function App() {
   return (
     <div className="App">
-      <header className="Header">Little Lemon Restaurant 🍕</header>
+      <header className="Header">Welcome to Cursor-Tracker</header>
       <PanelMouseLogger />
       <PointMouseLogger />
     </div>
